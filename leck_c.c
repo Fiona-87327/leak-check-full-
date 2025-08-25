@@ -1,4 +1,4 @@
-gcc -D BUFFER_SIZE=42 
+cc -D BUFFER_SIZE=42 
 
 valgrind ./a.out
   
