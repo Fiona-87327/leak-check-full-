@@ -1,4 +1,4 @@
-gcc -D BUFFER_SIZE=42 main.c get_next_line.c get_next_line_utils.c -o gnl_test
+gcc -D BUFFER_SIZE=42 
 
 valgrind ./a.out
 
